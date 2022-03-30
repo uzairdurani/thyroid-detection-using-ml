@@ -1,0 +1,1 @@
+web: gunicorn LregressionModel1.wsgi
